@@ -1,6 +1,9 @@
 # Message-Container-Flutter-Template
 Hi, here you will find a message container template - flutter - dart
 
+# Note
+I have used HexColor package, you have to install it first from https://pub.dev/packages/hexcolor/install to avoid any error
+
 # How-To-Use
   1.Simply add the code file to your application lib/
   2.Call the function in the desired location
